@@ -12,6 +12,8 @@ Running deepseek at local
 2. Uisng windows power shell run below commands
    ollama run deepseek-r1:1.5b
    1.5b is the capability of model you want.There are several model whicha can be used with highest 400B GB data sets
+3. Ask anything to do for you. You will get response
+4. 
    
 
 
