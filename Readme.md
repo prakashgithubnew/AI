@@ -22,6 +22,9 @@ copy docker command from docker and run the webUI and check the responses
 
 https://www.youtube.com/watch?v=clJCDHml2cA
 
+https://www.youtube.com/watch?v=oeBDn6vclz0
+
+
 
 
 
