@@ -24,6 +24,11 @@ https://www.youtube.com/watch?v=clJCDHml2cA
 
 https://www.youtube.com/watch?v=oeBDn6vclz0
 
+Using deepseek AI model at local
+
+https://github.com/deepseek-ai/DeepSeek-V3
+
+
 
 
 
